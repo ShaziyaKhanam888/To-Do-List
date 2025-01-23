@@ -1,5 +1,4 @@
 # To-Do-List
-# Todo List  
 ## Overview
 This project is a simple, feature-rich to-do list web application built with HTML, CSS, and JavaScript. It is designed to help users organize and manage their tasks efficiently. The application allows users to add, complete, mark as incomplete, and delete tasks.
 
